@@ -5,8 +5,8 @@
 _Страница еще находится в разработке_
 
 
-* Правила оценивания (cкоро будет ссылка)
-* Материалы
-    * Первый поток (ссылка)
-    * Второй поток (ссылка)
-    * Третий поток (ссылка)
+* **Правила оценивания** (cкоро будет ссылка)
+* **Материалы**
+    * [Первый поток](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/1_stream.md)
+    * [Второй поток](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/2_stream.md)
+    * [Третий поток](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/3_stream.md)
