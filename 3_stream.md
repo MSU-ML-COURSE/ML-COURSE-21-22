@@ -6,4 +6,4 @@
 | Дата | Номер | Тема | Презентация |  Доп. материалы |  Практическое задание |
 | :---: | :---: | --- | --- | --- | --- |
 | 07.09.2021 | 1 | Вводная лекция, Термины, Постановка основных задач | <ul><li>[Вводная лекция](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML012_terms_202102a.pdf)</li><li>[Постановка основных задач](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML013_introclassreg_202102a.pdf)</ul></li> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
-| 14.09.2021 | 1 | Постановка основных задач | <ul><li>[Постановка основных задач](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML013_introclassreg_202102a.pdf)</ul></li> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
+| 14.09.2021 | 1 | Постановка основных задач | <ul><li>[Постановка основных задач](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML013_introclassreg_202102a.pdf)</ul></li> | ¯\\\_(ツ)\_/¯ | Основы Python (16.09.2021) | 
