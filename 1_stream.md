@@ -8,5 +8,7 @@
 | 20.09.2021 | 3 | Линейная регрессия, ее обобщения  | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/030-Linear%20regression%20and%20extensions.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 27.09.2021 | 4 | Стохастический градиентный спуск  | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/035-Stochastic%20gradient%20descent.pdf) | ¯\\\_(ツ)\_/¯ | Тест по лекциям 1-3 |
 | 04.10.2021 | 5 | Линейная классификация | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/040-Linear%20classification.pdf) | ¯\\\_(ツ)\_/¯ | Numpy, pandas, matplotlib (07.10.2021) |
+| 11.10.2021 | 6 | Оценка классификаторов | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/050-Classifier%20evaluation.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+
 
 
