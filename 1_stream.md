@@ -9,6 +9,8 @@
 | 27.09.2021 | 4 | Стохастический градиентный спуск  | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/035-Stochastic%20gradient%20descent.pdf) | ¯\\\_(ツ)\_/¯ | Тест по лекциям 1-3 |
 | 04.10.2021 | 5 | Линейная классификация | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/040-Linear%20classification.pdf) | ¯\\\_(ツ)\_/¯ | Numpy, pandas, matplotlib (07.10.2021) |
 | 11.10.2021 | 6 | Оценка классификаторов | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/050-Classifier%20evaluation.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 18.10.2021 | 7 | Метод опорных векторов (SVM)| [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/060-Support%20vector%20machines.pdf) | ¯\\\_(ツ)\_/¯ | kNN (21.10.2021) |
+| 25.10.2021 | 8 | Оценивание плотностей распределения | ¯\\\_(ツ)\_/¯  | ¯\\\_(ツ)\_/¯  | ¯\\\_(ツ)\_/¯ |
 
 
 
