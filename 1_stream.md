@@ -10,7 +10,8 @@
 | 04.10.2021 | 5 | Линейная классификация | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/040-Linear%20classification.pdf) | ¯\\\_(ツ)\_/¯ | Numpy, pandas, matplotlib (07.10.2021) |
 | 11.10.2021 | 6 | Оценка классификаторов. Контроль качества и выбор моделей | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/050-Classifier%20evaluation.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 18.10.2021 | 7 | Метод опорных векторов (SVM)| [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/060-Support%20vector%20machines.pdf) | ¯\\\_(ツ)\_/¯ | kNN (21.10.2021) |
-| 25.10.2021 | 8 | Обобщения методов через ядра Мерсера. Оценивание плотностей распределения | ¯\\\_(ツ)\_/¯  | ¯\\\_(ツ)\_/¯  | ¯\\\_(ツ)\_/¯ |
-
+| 25.10.2021 | 8 | Обобщения методов через ядра Мерсера. Оценивание плотностей распределения | <ul><li>[Ядерное обобщение методов](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/070-Kernel%20trick.pdf)</li><li>[Ядерная оценка плотности](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/080-Kernel%20density%20estimation.pdf)</li></ul> | ¯\\\_(ツ)\_/¯  | Тест по лекциям 3-7 |
+| 01.11.2021 | 9 | Байесовское решающее правило | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/90-Bayes%20decision%20rule.pdf)| ¯\\\_(ツ)\_/¯  | Linear Models (04.11.2021) |
+| 08.11.2021 | 10 | Решающие деревья | ¯\\\_(ツ)\_/¯  | ¯\\\_(ツ)\_/¯  | ¯\\\_(ツ)\_/¯ |
 
 
