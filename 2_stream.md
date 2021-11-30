@@ -15,6 +15,11 @@
 | 26.10.2021 | 8 | Оценивание плотностей распределения | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu21-density.pdf) | ¯\\\_(ツ)\_/¯ | Тест по лекциям 3-7  |
 | 02.11.2021 | 9 | Байесовская теория классификации | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu21-bayes.pdf) | ¯\\\_(ツ)\_/¯ | Linear Models (04.11.2021)  |
 | 09.11.2021 | 10 | Логические методы классификации | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu21-logic.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯  |
+| 16.11.2021 | 11 | Линейные ансамбли | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu21-compos1.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯  |
+| 23.11.2021 | 12 | Продвинутые методы ансамблирования | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu21-compos2.pdf) | ¯\\\_(ツ)\_/¯ | SVM (18.11.2021)  |
+| 30.11.2021 | 13 | Методы отбора признаков | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu21-featuresel.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯  |
+
+
 
 
 
