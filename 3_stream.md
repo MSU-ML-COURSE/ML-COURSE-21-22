@@ -18,3 +18,4 @@
 | 16.11.2021 | 11 | Ансамбли алгоритмов | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD051_ensemble_202102a____part1.pdf) | ¯\\\_(ツ)\_/¯ | SVM (18.11.2021) |
 | 23.11.2021 | 12 | Случайные леса и AdaBoost  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD052_rf_202101a_____+adaboost.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 30.11.2021 | 13 | Градиентный бустинг | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD053_gradboosting_202106n___.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 07.12.2021 | 14 | Селекция (отбор) признаков  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD043_featureselection_202109___.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
