@@ -18,6 +18,8 @@
 | 16.11.2021 | 11 | Линейные ансамбли | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu21-compos1.pdf) | ¯\\\_(ツ)\_/¯ | SVM (18.11.2021)  |
 | 23.11.2021 | 12 | Продвинутые методы ансамблирования | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu21-compos2.pdf) | ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |
 | 30.11.2021 | 13 | Методы отбора признаков | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu21-featuresel.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯  |
+| 07.12.2021 | 14 | Инкрементное и онлайновое обучение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu21-increment.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯  |
+
 
 
 
