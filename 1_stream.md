@@ -15,5 +15,7 @@
 | 08.11.2021 | 10 | Решающие деревья | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/100-Decision%20trees.pdf)  | ¯\\\_(ツ)\_/¯  | ¯\\\_(ツ)\_/¯ |
 | 15.11.2021 | 11 | Смещение и дисперсия моделей. Ансамбли прогнозирующих алгоритмов | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/110-Ensemble%20methods%2C%20bias-variance.pdf)  | ¯\\\_(ツ)\_/¯  | SVM (18.11.2021) |
 | 22.11.2021 | 12 | Бустинг - идея, AdaBoost и градиентный | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/120-Boosting.pdf)  | ¯\\\_(ツ)\_/¯  | ¯\\\_(ツ)\_/¯ |
+| 29.11.2021 | 13 | Методы автоматического отбора признаков | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/130-Feature%20selection.pdf)  | ¯\\\_(ツ)\_/¯  | ¯\\\_(ツ)\_/¯ |
+
 
 
