@@ -6,6 +6,7 @@
 | Дата | Номер | Тема | Презентация | Доп. материалы | Практическое задание |
 | :---: | :---: | --- | --- | --- | --- |
 | 07.02.2022 | 1 | Многослойный персептрон  | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/160-Multilayer%20perceptron.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 14.02.2022 | 2 | <ul><li>DropOut, Батч-нормализация</li><li>Сверточные нейросети</li></ul>  | <ul><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/170-DropOut%2C%20BatchNorm.pdf)</li><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/180-Convolutional%20neural%20networks.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 
 ### Осень
 
