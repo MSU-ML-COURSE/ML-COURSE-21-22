@@ -9,6 +9,7 @@
 | :---: | :---: | --- | --- | --- |  --- |
 | 08.02.2022 | 1 | Искусственные нейронные сети | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-backprop.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 15.02.2022 | 2 | Глубокие нейронные сети | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-deeplearn.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 22.02.2022 | 3 | Нейронные сети: обучение без учителя | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-autoenc.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 
 
 ### Осень
