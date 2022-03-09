@@ -9,6 +9,8 @@
 | 14.02.2022 | 2 | <ul><li>DropOut, Батч-нормализация</li><li>Сверточные нейросети</li></ul>  | <ul><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/170-DropOut%2C%20BatchNorm.pdf)</li><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/180-Convolutional%20neural%20networks.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ | Деревья решений (17.02.2022) |
 | 21.02.2022 | 3 | <ul><li>Векторное представление объектов</li><li>Рекурретные нейронные сети нейросети</li></ul>  | <ul><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/190-Embeddings.pdf)</li><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/200-Recurrent%20neural%20nets.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 28.02.2022 | 4 | Кластеризация K представителями  | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/210-Clustering%20K%20representatives.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 05.03.2022 | 5 | Кластеризация | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/220-Clustering.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+
 
 ### Осень
 
