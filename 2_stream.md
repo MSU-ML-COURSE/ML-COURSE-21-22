@@ -7,12 +7,11 @@
 
 | Дата | Номер | Тема | Презентация | Доп. материалы | Практическое задание |
 | :---: | :---: | --- | --- | --- |  --- |
-| 08.02.2022 | 1 | Искусственные нейронные сети | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-backprop.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
-| 15.02.2022 | 2 | Глубокие нейронные сети | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-deeplearn.pdf) | ¯\\\_(ツ)\_/¯ | Деревья решений (17.02.2022) |
-| 22.02.2022 | 3 | Нейронные сети: обучение без учителя | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-autoenc.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
-| 01.03.2022 | 4 | Обучение без учителя: поиск ассоциативных правил | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-assoc.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
-
-
+| 08.02.2022 | 16 | Искусственные нейронные сети | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-backprop.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 15.02.2022 | 17 | Глубокие нейронные сети | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-deeplearn.pdf) | ¯\\\_(ツ)\_/¯ | Деревья решений (17.02.2022) |
+| 22.02.2022 | 18 | Нейронные сети: обучение без учителя | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-autoenc.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 01.03.2022 | 19 | Обучение без учителя: поиск ассоциативных правил | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-assoc.pdf) | ¯\\\_(ツ)\_/¯ | <ul><li>Градиентный бустинг (10.03.2022)</li><li>Тест по лекциям 16-18 (11.03.2022)</li></ul> |
+| 15.03.2022 | 20 | Кластеризация и частничное обучение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-cluster.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 
 ### Осень
 
