@@ -7,10 +7,13 @@
 
 | Дата | Номер | Тема | Презентация |  Доп. материалы |  Практическое задание |
 | :---: | :---: | --- | --- | --- | --- |
-| 08.02.2022 | 1 | Нейронные сети| [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/DL_1NN_03_nn_202201a.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
-| 15.02.2022 | 2 | Борьба с переобучением в нейронных сетях | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/DL_1NN_04learning_202201a___.pdf) | ¯\\\_(ツ)\_/¯ | Деревья решений (17.02.2022) | 
-| 22.02.2022 | 3 | Архитектуры нейросетей  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/DL_03archiall.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
-| 01.03.2022 | 4 | Ассоциативные правила | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML095_apriory_202204a.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
+| 08.02.2022 | 16 | Нейронные сети| [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/DL_1NN_03_nn_202201a.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
+| 15.02.2022 | 17 | Борьба с переобучением в нейронных сетях | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/DL_1NN_04learning_202201a___.pdf) | ¯\\\_(ツ)\_/¯ | Деревья решений (17.02.2022) | 
+| 22.02.2022 | 18 | Архитектуры нейросетей  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/DL_03archiall.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
+| 01.03.2022 | 19 | Ассоциативные правила | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML095_apriory_202204a.pdf) | ¯\\\_(ツ)\_/¯ | <ul><li>Градиентный бустинг (10.03.2022)</li><li>Тест по лекциям 16-18 (11.03.2022)</li></ul>  | 
+| 15.03.2022 | 20 | Кластеризация | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML091_cluster_202112n____.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
+
+
  
 
 ### Осень
