@@ -12,6 +12,8 @@
 | 22.02.2022 | 18 | Архитектуры нейросетей  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/DL_03archiall.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
 | 01.03.2022 | 19 | Ассоциативные правила | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML095_apriory_202204a.pdf) | ¯\\\_(ツ)\_/¯ | <ul><li>Градиентный бустинг (10.03.2022)</li><li>Тест по лекциям 16-18 (11.03.2022)</li></ul>  | 
 | 15.03.2022 | 20 | Кластеризация | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML091_cluster_202112n____.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
+| 22.03.2022 | 21 | <ul><li>EM-алгоритм</li><li>Обучение без учителя</li></ul> | <ul><li>[Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML092_EM_202201a.pdf)</li><li>[Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML093_USL_202201a___.pdf)</li></ul> |  ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
+| 29.03.2022 | 22 | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
 
 
  
