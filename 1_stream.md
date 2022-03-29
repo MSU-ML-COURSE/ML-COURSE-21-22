@@ -11,6 +11,8 @@
 | 28.02.2022 | 19 | Кластеризация K представителями  | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/210-Clustering%20K%20representatives.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 05.03.2022 | 20 | Кластеризация | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/220-Clustering.pdf) | ¯\\\_(ツ)\_/¯ | <ul><li>Градиентный бустинг (10.03.2022)</li><li>Тест по лекциям 16-18 (11.03.2022)</li></ul>  |
 | 14.03.2022 | 21 | <ul><li>Расширение обучающей выборки</li><li>Оптимизационный перенос стиля</li><li>Transformation-Based Style Transfer</li></ul> | <ul><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/230-Augmentation%20of%20image%20datasets.pdf)</li><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/230-Augmentation%20of%20image%20datasets.pdf)</li><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/232-Transformation-based%20ST.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 21.03.2022 | 22 | Ассоциативные правила | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/240-Association%20rules.pdf) | ¯\\\_(ツ)\_/¯ | Кластеризация (24.03.2022) |
+| 28.03.2022 | 23 | Смеси распределений | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/250-Mixture%20density%20models.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 
 
 ### Осень
