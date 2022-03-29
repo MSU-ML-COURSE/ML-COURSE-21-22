@@ -12,6 +12,8 @@
 | 22.02.2022 | 18 | Нейронные сети: обучение без учителя | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-autoenc.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 01.03.2022 | 19 | Обучение без учителя: поиск ассоциативных правил | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-assoc.pdf) | ¯\\\_(ツ)\_/¯ | <ul><li>Градиентный бустинг (10.03.2022)</li><li>Тест по лекциям 16-18 (11.03.2022)</li></ul> |
 | 15.03.2022 | 20 | Кластеризация и частничное обучение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-cluster.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 22.03.2022 | 21 | Тематическое моделирование: "мягкая" кластеризация текстов | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-tm.pdf) | ¯\\\_(ツ)\_/¯ | Кластеризация (24.03.2022) |
+| 29.03.2022 | 22 | Регуляризация в тематическом моделировании | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-tm2.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 
 ### Осень
 
