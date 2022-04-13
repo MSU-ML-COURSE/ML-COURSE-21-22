@@ -14,6 +14,7 @@
 | 15.03.2022 | 20 | Кластеризация и частничное обучение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-cluster.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 22.03.2022 | 21 | Тематическое моделирование: "мягкая" кластеризация текстов | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-tm.pdf) | ¯\\\_(ツ)\_/¯ | Кластеризация (24.03.2022) |
 | 29.03.2022 | 22 | Регуляризация в тематическом моделировании | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-tm2.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 05.04.2022 | 23 | Векторные представления текстов и графов | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/2_stream/msu22-embed.pdf) | ¯\\\_(ツ)\_/¯ | Контест (06.04.2022) |
 
 ### Осень
 
