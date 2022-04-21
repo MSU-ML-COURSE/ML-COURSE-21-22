@@ -15,6 +15,9 @@
 | 22.03.2022 | 21 | <ul><li>EM-алгоритм</li><li>Обучение без учителя</li></ul> | <ul><li>[Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML092_EM_202201a.pdf)</li><li>[Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML093_USL_202201a___.pdf)</li></ul> |  ¯\\\_(ツ)\_/¯ | Кластеризация (24.03.2022) | 
 | 29.03.2022 | 22 | Детектирование аномалий | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML094_anomaly_202201a.pdf)| ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
 | 05.04.2022 | 23 | Байесовский подход | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML082_bayes_202115n.pdf)| ¯\\\_(ツ)\_/¯ | Контест (06.04.2022) | 
+| 12.04.2022 | 24 | Байесовский подход | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML082_bayes_202115n.pdf)| ¯\\\_(ツ)\_/¯ | Тест по лекциям 19-22 (15.04.2022) | 
+| 19.04.2022 | 25 | Рекомендательные системы | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/PZAD071_RecSys_202201a____.pdf)| ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
+
 
 
  
