@@ -14,7 +14,8 @@
 | 21.03.2022 | 22 | Ассоциативные правила | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/240-Association%20rules.pdf) | ¯\\\_(ツ)\_/¯ | Кластеризация (24.03.2022) |
 | 28.03.2022 | 23 | Смеси распределений | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/250-Mixture%20density%20models.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 04.04.2022 | 24 | <ul><li>ЕМ-алгоритм</li><li>Обнаружение аномалий</li></ul> | <ul><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/260-EM%20algorithm.pdf)</li><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/250-Outlier%20detection.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ | Контест (06.04.2022) |
-| 11.04.2022 | 25 | Тематическое моделирование | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/260-Topic%20modelling.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 11.04.2022 | 25 | Тематическое моделирование | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/260-Topic%20modelling.pdf) | ¯\\\_(ツ)\_/¯ | Тест по лекциям 19-22 (15.04.2022) |
+| 18.04.2022 | 26 | Сингулярное разложение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/270-Singular%20value%20decomposition.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 
 
 ### Осень
