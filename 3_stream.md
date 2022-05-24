@@ -17,6 +17,8 @@
 | 05.04.2022 | 23 | Байесовский подход | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML082_bayes_202115n.pdf)| ¯\\\_(ツ)\_/¯ | Контест (06.04.2022) | 
 | 12.04.2022 | 24 | Байесовский подход | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML082_bayes_202115n.pdf)| ¯\\\_(ツ)\_/¯ | Тест по лекциям 19-22 (15.04.2022) | 
 | 19.04.2022 | 25 | Рекомендательные системы | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/PZAD071_RecSys_202201a____.pdf)| ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | 
+| 26.04.2022 | 26 | Ранжирование  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML105_range_202202a.pdf)| ¯\\\_(ツ)\_/¯ | Тест по лекциям 21-24 (29.04.2022)| 
+| 17.04.2022 | 27 | Специальные задачи: многоклассовые, с частичной разметкой, активное обучение| [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML101_special_202202a___.pdf)| ¯\\\_(ツ)\_/¯ | Тест по лекциям 25-28 (24.05.2022)| 
 
 
 
