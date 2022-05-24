@@ -16,6 +16,8 @@
 | 04.04.2022 | 24 | <ul><li>ЕМ-алгоритм</li><li>Обнаружение аномалий</li></ul> | <ul><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/260-EM%20algorithm.pdf)</li><li>[Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/250-Outlier%20detection.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ | Контест (06.04.2022) |
 | 11.04.2022 | 25 | Тематическое моделирование | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/260-Topic%20modelling.pdf) | ¯\\\_(ツ)\_/¯ | Тест по лекциям 19-22 (15.04.2022) |
 | 18.04.2022 | 26 | Сингулярное разложение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/270-Singular%20value%20decomposition.pdf) | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 25.04.2022 | 27 | Рекомендательные системы | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/slides/1_stream/280-Recommender%20systems.pdf) | ¯\\\_(ツ)\_/¯ | Тест по лекциям 21-24 (29.04.2022)|
+| 16.05.2022 | 28 |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | Тест по лекциям 25-28 (24.05.2022) |
 
 
 ### Осень
