@@ -15,3 +15,5 @@
 
 ### Дополнительные материалы
 [Работа с jupyter notebook и python](https://youtube.com/playlist?list=PLzdAwQrglFyIkkvIlUeo_xX08WvKM6L0-)
+[Авторское решение контеста](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/files/Spotify%20tracks%20popularity%20prediction.pdf)
+
